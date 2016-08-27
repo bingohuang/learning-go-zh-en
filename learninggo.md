@@ -19,6 +19,13 @@
 % fullname = "R. (Miek) Gieben"
 %   [author.address]
 %   email = "miek@miek.nl"
+%
+% [[translator]]
+% initials = "Bingo"
+% surname  = "Huang"
+% fullname = "Bingo Huang"
+%   [author.address]
+%   email = "me@bingohuang.com"
 
 .# Preface
 {{preface.md}}
